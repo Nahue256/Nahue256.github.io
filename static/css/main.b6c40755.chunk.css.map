@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style/style.css"],"names":[],"mappings":"AAAA,KACE,UAAa,CACb,kBAA2B,CAC7B,gEACA","file":"main.b6c40755.chunk.css","sourcesContent":["body {\r\n  color : white;\r\n  background: rgb(142,37,213);\r\nbackground: linear-gradient(90deg, rgba(142,37,213,1) 0%, rgba(52,5,84,1) 100%, rgba(142,37,213,1) 100%);\r\n}\r\n"]}
